@@ -38,7 +38,7 @@ But notice that there is an interval between the third and the fifth.  The diffe
 between E and G is a _minor third_ and Eb and G is a _major third_
 
 Thus, basic chords (both major and minor) are made up of a _major third_ and a _minor
-third_, the only difference being which one comes first  (ie, C is major-minor, and
+third_, the difference being which one comes first  (ie, C is major-minor, and
 Cm is minor-major)
 
 More complex chords are similarly created by adding more thirds.  The C7 chord is
