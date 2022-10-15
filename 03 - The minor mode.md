@@ -1,6 +1,6 @@
-# The minor scale
+# The minor mode
 
-The minor scale uses the same pattern as the major scale except it starts with A instead of C
+The minor mode uses the same scale (notes) as the major mode except it starts with A instead of C
 
 ```
         i  ii  iii  iv  v  vi  vii  i
